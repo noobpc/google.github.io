@@ -2,6 +2,6 @@
 
 SEE THEM HERE 
 
-https://noobpc.github.io/uwantthem_comehere/
+https://noobpc.github.io/
 
 SIMPLY cleavr
