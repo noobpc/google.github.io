@@ -1,0 +1,47 @@
+/* BASIC STYLES */
+
+body {
+
+  margin: 0;
+
+  padding: 0;
+
+  font-family: 'Roboto', sans-serif;
+
+}
+
+header {
+
+  width: 100%;
+
+}
+
+ul {
+
+  list-style: none;
+
+}
+
+/* NAV BAR */
+
+#nav_bar {
+
+  float: right;
+
+}
+
+#nav_bar li {
+
+  display: inline-block;
+
+  padding: 8px;
+
+}
+
+#nav_bar #sign_in {
+
+  background: #4887ef; 
+
+  margin-right: 25px;
+
+  padding: 7px 15px;
