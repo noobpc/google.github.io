@@ -1,7 +1,7 @@
-# https://noobpc.github.io/.
+# https://google.github.io/.
 
 SEE THEM HERE 
 
-https://noobpc.github.io/
+https://google.github.io/
 
 SIMPLY cleavr
